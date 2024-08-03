@@ -26,13 +26,6 @@ $DB_PASSWORD=getenv('DB_PASSWORD') ?: '';
  */
 
 
-
-
-
-
-
-
-
 $db_config = [
     'dsn' => 'mysql:host='.$SERVERNAME.';dbname='.$DATABASE_NAME.';charset=utf8',
     'username' => $DB_USERNAME,
