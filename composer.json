@@ -1,0 +1,23 @@
+{
+    "name": "isaka-james/thyrus",
+    "description": "The thyrus framework powered by PHP that gives you the ability to host rightaway.",
+    "type": "framework",
+    "autoload": {
+        "psr-4": {
+            "App\\Config\\": "src/Config/",
+            "App\\Controllers\\": "src/Controllers/",
+            "App\\Database\\": "src/Database/",
+            "App\\Models\\": "src/Models/",
+            "App\\Views\\": "src/Views/"
+        }
+    },
+    "authors": [
+        {
+            "name": "isaka james",
+            "email": "isakajames@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.10"
+    }
+}
