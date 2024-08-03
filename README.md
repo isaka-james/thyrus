@@ -106,7 +106,7 @@ The framework’s file structure is as follows:
    ```php
    namespace App\Controllers;
 
-   use Thyrus\Controller;
+   use App\Controller;
 
    class MyController extends Controller
    {
@@ -148,3 +148,7 @@ The framework’s file structure is as follows:
 ## License
 
 Thyrus is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=thyrus&label=Visitors&color=0e75b6&style=flat" alt="since 3 August,2024" />
+  </p>
