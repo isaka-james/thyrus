@@ -15,6 +15,6 @@ class TestController extends Controller
 
     public function testAstra()
     {
-        return $this->render('index.twig', ['passedVariable' => 'Astra is Good']);
+        return $this->render('index.twig', ['passedVariable' => 'Thyrus is Good']);
     }
 }
