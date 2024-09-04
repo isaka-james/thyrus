@@ -18,6 +18,10 @@
 
 ## Overview
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=isaka-thyrus&label=Thyrus%20Framework&color=0e75b6&style=flat" alt="since 04 Sep,2024" />
+</p>
+
 Thyrus is a lightweight PHP framework designed for ease of use and simplicity in deployment. It supports MVC (Model-View-Controller) architecture and is optimized for environments where you may only have limited directory access, such as free hosting platforms.
 
 **Predecessor:** *MasterPHP (which lacked MVC architecture)*
