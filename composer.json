@@ -18,6 +18,6 @@
         }
     ],
     "require": {
-        "twig/twig": "^3.10"
+        "twig/twig": "^3.14.0"
     }
 }
